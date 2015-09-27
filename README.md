@@ -14,5 +14,5 @@ Inside CarletonCourses:
     RandomSentence.py: Simple Python script to create a random sentence.
                 Written for Intro to CS course around March 2013.
 
-DFAtoNFA.py: Simple Python script to convert a Deterministic Finite Automaton structure into a Nondeterministic Finite Automaton.
-    Written for Computation and Complexity around April 2015.
+    DFAtoNFA.py: Simple Python script to convert a Deterministic Finite Automaton structure into a Nondeterministic Finite Automaton.
+                Written for Computation and Complexity around April 2015.
